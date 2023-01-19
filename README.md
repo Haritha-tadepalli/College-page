@@ -1,3 +1,8 @@
 # College-page
 A sample college website designed using HTML and CSS
-![image](https://user-images.githubusercontent.com/78158263/213390645-05812c8a-a23c-4e53-953e-74d4e4064f7c.png)
+
+Sample images of the website
+
+![image](https://user-images.githubusercontent.com/78158263/213390950-1ff18722-d516-4de0-9cac-aec9cc459c38.png)
+
+![image](https://user-images.githubusercontent.com/78158263/213390879-a0ef4bf1-1166-4224-9d34-51154ffa5859.png)
